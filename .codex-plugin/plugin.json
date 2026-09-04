@@ -1,0 +1,21 @@
+{
+  "name": "igcse-gp-exam-creator",
+  "version": "0.1.0",
+  "description": "Create coordinated IGCSE Global Perspectives practice exam papers, mark schemes and student support.",
+  "author": {
+    "name": "djpotter"
+  },
+  "homepage": "https://github.com/djpotter/igcse-gp-exam-creator",
+  "repository": "https://github.com/djpotter/igcse-gp-exam-creator",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "IGCSE GP Exam Creator",
+    "shortDescription": "Six-document Global Perspectives practice exam sets.",
+    "longDescription": "Create a source booklet, question paper, mark scheme, exemplar answers, annotated sources and student writing support. Independent teacher-reviewed practice materials. Claude currently produces more accurate results, especially document formatting and presentation; the OpenAI edition is an early migration.",
+    "developerName": "djpotter",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Create an IGCSE Global Perspectives practice exam on data centre water usage."
+  }
+}

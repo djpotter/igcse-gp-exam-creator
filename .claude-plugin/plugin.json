@@ -1,0 +1,11 @@
+{
+  "name": "igcse-gp-exam-creator",
+  "version": "0.1.0",
+  "description": "Create coordinated IGCSE Global Perspectives practice exam papers, mark schemes and student support.",
+  "author": {
+    "name": "djpotter"
+  },
+  "homepage": "https://github.com/djpotter/igcse-gp-exam-creator",
+  "repository": "https://github.com/djpotter/igcse-gp-exam-creator",
+  "license": "MIT"
+}
